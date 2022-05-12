@@ -8,6 +8,6 @@ If the user hasn’t rated the business, the contribution is 0.
 Final acc:  precision = 0.99, recall = 0.99<br />
 
 ### Task 2:  Recommendation System
-Case 1: Item-based CF recommendation system with Pearson similarity
-Case 2: Model-based recommendation system
-Case 3: Hybrid recommendation system 
+Case 1: Item-based CF recommendation system with Pearson similarity <br />
+Case 2: Model-based recommendation system <br />
+Case 3: Hybrid recommendation system <br />
