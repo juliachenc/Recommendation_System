@@ -2,7 +2,7 @@
 
 ###Task 1: Jaccard based LSH###
 
-\Focus on the “0 or 1” ratings rather than the actual ratings/stars from the users.
+Focus on the “0 or 1” ratings rather than the actual ratings/stars from the users.
 Specifically, if a user has rated a business, the user’s contribution in the characteristic matrix is 1. 
 If the user hasn’t rated the business, the contribution is 0. 
 Final acc:  precision = 0.99, recall = 0.99<br />
